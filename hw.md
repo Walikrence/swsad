@@ -21,10 +21,10 @@ invisibility 不可视性
 克服方法：
 要克服软件危机，就要认真分析软件危机的原因，探索用工程的方法进行软件生产的可能性，即用现代工程的概念、原理、技术和方法进行计算机软件的开发、管理、维护和更新
 
-##3.软件生命周期
+## 3.软件生命周期
 在时间维度，对软件项目任务进行划分，又成为软件开发过程。常见有瀑布模型、螺旋模型、敏捷的模型等
 
-##4.SWEBoK 的 15 个知识域（An Overview of the SWEBOK Guide 请中文翻译其名称与简短说明）
+## 4.SWEBoK 的 15 个知识域（An Overview of the SWEBOK Guide 请中文翻译其名称与简短说明）
 Software requirements
 软件需求
 Software design
@@ -57,7 +57,7 @@ Engineering foundations
 工程基础
 
 
-##5.简单解释 CMMI 的五个级别。例如：Level 1 - Initial：无序，自发生产模式。
+## 5.简单解释 CMMI 的五个级别。例如：Level 1 - Initial：无序，自发生产模式。
 
 成熟度级别1-无序，自发生产模式
 
@@ -93,7 +93,7 @@ QPM - 量化的项目管理（Quantitative Project Management）
 CAR - 因果分析和决议（Causal Analysis and Resolution）
 OPM - 组织级绩效管理（Organizational Performance Management）
 
-##6.用自己语言简述 SWEBok 或 CMMI （约200字）
+## 6.用自己语言简述 SWEBok 或 CMMI （约200字）
 
 SWEBok：
 The Software Engineering Body of Knowledge (SWEBOK)－软件工程知识体系是一个国际标准，指定了普遍接受的软件工程知识体系的指南。
