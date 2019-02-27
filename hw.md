@@ -1,8 +1,8 @@
-#hw1
-##1.软件工程的定义
+# hw1
+## 1.软件工程的定义
 Software engineering is “(1) the application of a systematic, disciplined, quantifiable approach to the development, operation, and maintenance of software, that is, the application of engineering to software,” and “(2) the study of approaches as in (1).” –– IEEE Standard 610.12
 
-##2.解释导致 software crisis 本质原因、表现，述说克服软件危机的方法
+## 2.解释导致 software crisis 本质原因、表现，述说克服软件危机的方法
 
 本质原因：
 因为软件具有以下本质特性。
